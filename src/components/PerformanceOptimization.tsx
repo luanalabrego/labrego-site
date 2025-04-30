@@ -3,7 +3,7 @@
 import React, { useEffect } from 'react';
 
 interface PerformanceOptimizationProps {
-  children: React.ReactNode;
+  children?: React.ReactNode;
 }
 
 export default function PerformanceOptimization({ children }: PerformanceOptimizationProps) {
