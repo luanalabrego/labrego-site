@@ -1,0 +1,5 @@
+// robots.txt gerado manualmente
+User-agent: *
+Allow: /
+
+Sitemap: https://labregosolucoes.com.br/sitemap.xml
