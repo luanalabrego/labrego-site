@@ -1,7 +1,7 @@
 'use client';
 
 import React, { useEffect } from 'react';
-import Analytics from '@/components/Analytics';
+import Analytics from "../components/Analytics";
 import PerformanceOptimization from '@/components/PerformanceOptimization';
 import EnhancedHeader from '@/components/EnhancedHeader';
 import EnhancedHero from '@/components/EnhancedHero';
