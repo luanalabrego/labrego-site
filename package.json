@@ -20,6 +20,7 @@
   "homepage": "https://github.com/luanalabrego/labrego-site#readme",
   "description": "",
   "dependencies": {
+    "@radix-ui/react-accordion": "^1.2.8",
     "@radix-ui/react-alert-dialog": "^1.1.11",
     "next": "^15.3.1",
     "react": "^19.1.0",
